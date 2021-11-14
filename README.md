@@ -1,2 +1,5 @@
-# ddos-method
-&lt;just_for_fun> Free lag method to ddos your noob friend. XD &lt;/just_for_fun>
+# DDoS Mehhod
+
+1️⃣ Install Python2 on your ubuntu/debian server.
+2️⃣ Run all updates on your server.
+3️⃣ HOLD UP! Now it's time to fuck a network XD use command "perl ovh.pl"
