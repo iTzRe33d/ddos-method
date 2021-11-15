@@ -1,4 +1,4 @@
-# DDoS Mehhod
+# DDoS Mehhod (Outdated)
 
 1. Use the following commands
 ```
