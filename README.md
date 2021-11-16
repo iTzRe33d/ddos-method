@@ -13,4 +13,4 @@ perl ovh.pl <ip> <port> <size> <time>
 ```
 
 - [x] Just for fun script
-- [ ] \(Optional) Review https://github.com/iTzRe33d/ddos-method :tada:
+- [ ] \(Optional) Start https://github.com/iTzRe33d/ddos-method :tada:
